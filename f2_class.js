@@ -7,3 +7,9 @@ class Obj{
         this.a = a
     }
 }
+
+class Inimigo extends Obj{
+    des_car(){
+        
+    }
+}
